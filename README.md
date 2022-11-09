@@ -2,7 +2,7 @@
 
 # LVI-JS
 
-A js-library that empower you site by adding a LVI font style in memory of LVI 🇮🇹 Italian Prime Minister B.M.
+A js-library that empower you website by adding a LVI font style in memory of LVI 🇮🇹 Italian Prime Minister B.M.
 
 _parody._
 
