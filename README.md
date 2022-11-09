@@ -11,7 +11,7 @@ _parody._
 Insert this tag on your website:
 
 ```html
-<script src="https://lvi-js.pavone.dev/"></script>
+<script src="https://lvi-js.pavone.dev/lvi.js"></script>
 ```
 
 Enjoy the new font im memory of LVI!
